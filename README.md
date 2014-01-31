@@ -2,6 +2,8 @@
 
 An ncurses-based terminal application for the Brewby ecosystem.
 
+![screenshot](http://f.cl.ly/items/301C0o071J0y0i010x1v/cli-screenshot.png)
+
 ## Install
 
 Brewby CLI is released as a gem on rubygems.  `gem install brewby-cli`
