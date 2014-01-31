@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'pry'
 
-  gem.add_runtime_dependency 'brewby'
+  #gem.add_runtime_dependency 'brewby'
   gem.add_runtime_dependency 'thor'
   gem.add_runtime_dependency 'ffi-ncurses'
 end
